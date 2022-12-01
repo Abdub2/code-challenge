@@ -45,6 +45,7 @@ npm start
 * Run on the browser
 npm run serve
 
-Author: Abdub Abdikadir Doyo
+# Author:
+ Abdub Abdikadir Doyo
 # License
 The project is licensed under Apache 2.0.
